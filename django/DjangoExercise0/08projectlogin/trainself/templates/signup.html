@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SignUp</title>
+</head>
+<body>
+
+{% block content %}
+
+<h3>SIGNUP NOW</h3>
+<form method="post">
+    {% csrf_token %}
+    {{form.as_p}}
+    <button type="submit">SignUp</button>
+</form>
+
+{% endblock %}
+
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "basic": [
+    {
+      "name": "Gavaskar Rathnam",
+      "age": 39
+    },
+    {
+      "name": "Ramya Gavaskar",
+      "age": 36
+    },
+    {
+      "name": "Krishna Gavaskar",
+      "age": 12
+    },
+    {
+      "name": "Taanve Gavaskar",
+      "age": 3
+    }
+  ]
+}

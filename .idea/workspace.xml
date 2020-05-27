@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ebfe4b3-62c0-4891-aaf7-fc0fe2545c35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/django/DjangoExercise1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/DjangoExercise1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyspark/etl/pyspark-etl-analytics/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_functional_test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_functional_test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_functional_test_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_functional_test_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_molotov.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_molotov.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_requests_mock.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_requests_mock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_webtest_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_webtest_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_webtest_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/03_webtest_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/request_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter03/request_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter04/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter04/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter04/views/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter04/views/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter05/05_mocking.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter05/05_mocking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter07/07_serverSide.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter07/07_serverSide.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter09/dataservice/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter09/dataservice/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter09/dataservice/tests/test_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter09/dataservice/tests/test_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter10/runnerly/tokendealer/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter10/runnerly/tokendealer/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter10/runnerly/tokendealer/tests/test_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter10/runnerly/tokendealer/tests/test_home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter10/runnerly/tokendealer/views/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/Python-Microservices-Development/Chapter10/runnerly/tokendealer/views/home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataanalysis/IPL_data_analysis/IPL_analysis/IPL_Initial_Analysis_DataFormatting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataanalysis/IPL_data_analysis/IPL_analysis/IPL_Initial_Analysis_DataFormatting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/DjangoExercise1/07projectseven/mywebsite/todo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/DjangoExercise1/07projectseven/mywebsite/todo/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/authentication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/authtoken/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/authtoken/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/fields.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/negotiation.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/negotiation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/pagination.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/pagination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/parsers.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/parsers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/relations.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/relations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/renderers.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/renderers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/response.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/schemas/generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/schemas/generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/schemas/inspectors.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/schemas/inspectors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/templatetags/rest_framework.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/templatetags/rest_framework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/throttling.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/throttling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/utils/field_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/utils/field_mapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/utils/mediatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/utils/mediatypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/utils/serializer_helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/utils/serializer_helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/versioning.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/versioning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/rest_framework/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/browsable_api/test_browsable_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/browsable_api/test_browsable_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/browsable_api/test_browsable_nested_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/browsable_api/test_browsable_nested_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_api_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_api_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_atomic_requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_atomic_requests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_authentication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_generics.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_generics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_htmlrenderer.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_htmlrenderer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_middleware.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_negotiation.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_negotiation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_pagination.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_pagination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_permissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_prefetch_related.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_prefetch_related.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_relations_hyperlink.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_relations_hyperlink.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_relations_pk.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_relations_pk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_relations_slug.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_relations_slug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_renderers.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_renderers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_requests_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_requests_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_routers.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_routers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_templatetags.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_templatetags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_throttling.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_throttling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_urlpatterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_urlpatterns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_validation_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_validation_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_versioning.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_versioning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/django-rest-framework/tests/test_viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/rest-api/restful-apis-example/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/rest-api/restful-apis-example/core/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/basic/app_ref/crud/server/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/basic/app_ref/crud/server/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask/basic/app_ref/crud/server/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/basic/app_ref/crud/server/models.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SECRET_KEY</find>
+      <find>&quot;</find>
+      <find>True</find>
+      <find>production</find>
+      <find>Untitled</find>
+      <find>create_app</find>
+      <find>[</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/core/Python-Microservices-Development" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/flask/basic/app_security/api/token.py" />
+        <option value="$PROJECT_DIR$/flask/basic/app_security/api/users.py" />
+        <option value="$PROJECT_DIR$/flask/basic/app_security/server.py" />
+        <option value="$PROJECT_DIR$/flask/basic/app_todo/todo_list_service.py" />
+        <option value="$PROJECT_DIR$/flask/basic/app_todo/app.py" />
+        <option value="$PROJECT_DIR$/flask/basic/app_rest_service/requirements.txt" />
+        <option value="$PROJECT_DIR$/flask/basic/app_rest_service/app.py" />
+        <option value="$PROJECT_DIR$/core/101/ex_valueerror.py" />
+        <option value="$PROJECT_DIR$/core/101/app-webscraping/webscraping.py" />
+        <option value="$PROJECT_DIR$/core/101/controller.py" />
+        <option value="$PROJECT_DIR$/core/101/model.py" />
+        <option value="$PROJECT_DIR$/core/101/indexing.py" />
+        <option value="$PROJECT_DIR$/core/101/pandas-.py" />
+        <option value="$PROJECT_DIR$/datasci/101/dataframe_0.py" />
+        <option value="$PROJECT_DIR$/core/101/operators.py" />
+        <option value="$PROJECT_DIR$/core/101/init_howwork.py" />
+        <option value="$PROJECT_DIR$/git-app/todolist/todolist.py" />
+        <option value="$PROJECT_DIR$/git-app/todolist/app/templates/base.html" />
+        <option value="$PROJECT_DIR$/git-app/todolist/app/templates/index.html" />
+        <option value="$PROJECT_DIR$/git-app/todolist/app/models.py" />
+        <option value="$PROJECT_DIR$/core/101/profileScrap.json" />
+        <option value="$PROJECT_DIR$/core/101/jsonparse.py" />
+        <option value="$PROJECT_DIR$/core/101/filelist.yaml" />
+        <option value="$PROJECT_DIR$/core/101/datetimeex.py" />
+        <option value="$PROJECT_DIR$/core/101/splitstring.py" />
+        <option value="$PROJECT_DIR$/core/101/argument.py" />
+        <option value="$PROJECT_DIR$/core/101/listtupledict.py" />
+        <option value="$PROJECT_DIR$/core/101/dictionary.py" />
+        <option value="$PROJECT_DIR$/core/101/small_project.py" />
+        <option value="$PROJECT_DIR$/core/30day/day1_.py" />
+        <option value="$PROJECT_DIR$/core/30day/small_project.py" />
+        <option value="$PROJECT_DIR$/core/30day/day1_numbers.py" />
+        <option value="$PROJECT_DIR$/core/30day/day2_string.py" />
+        <option value="$PROJECT_DIR$/core/30day/day4_basiccollection.py" />
+        <option value="$PROJECT_DIR$/core/30day/day5_conditionals_n_booleans.py" />
+        <option value="$PROJECT_DIR$/core/30day/day6_forloops.py" />
+        <option value="$PROJECT_DIR$/core/30day/day8_while.py" />
+        <option value="$PROJECT_DIR$/core/30day/challenge.py" />
+        <option value="$PROJECT_DIR$/core/30day/day3_stringformat.py" />
+        <option value="$PROJECT_DIR$/core/30day/day7_split_join_slices.py" />
+        <option value="$PROJECT_DIR$/core/30day/day9_unpacking.py" />
+        <option value="$PROJECT_DIR$/core/30day/day10_dictionary.py" />
+        <option value="$PROJECT_DIR$/core/30day/day11_set.py" />
+        <option value="$PROJECT_DIR$/core/30day/day12_functions.py" />
+        <option value="$PROJECT_DIR$/core/30day/day13_functions_scope.py" />
+        <option value="$PROJECT_DIR$/core/30day/iris.csv" />
+        <option value="$PROJECT_DIR$/core/30day/hello_world.txt" />
+        <option value="$PROJECT_DIR$/core/30day/day14_files.py" />
+        <option value="$PROJECT_DIR$/core/30day/project_2.py" />
+        <option value="$PROJECT_DIR$/core/30day/project_2_v1.1.py" />
+        <option value="$PROJECT_DIR$/core/30day/day15_comprehensions.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="890" />
+    <option name="width" value="1040" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\gopath\python\core\30day" />
+      <recent name="C:\gopath\python\core\101" />
+      <recent name="C:\gopath\python\flask\basic\app_rest_service" />
+      <recent name="C:\gopath\python\flask\basic\app_security" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\gopath\python\flask\basic\security" />
+      <recent name="C:\gopath\python\flask\basic\security\models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.day15_comprehensions">
+    <configuration name="day11_set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core/30day" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/30day/day11_set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day12_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core/30day" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/30day/day12_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day13_functions_scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core/30day" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/30day/day13_functions_scope.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day14_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core/30day" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/30day/day14_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day15_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core/30day" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/30day/day15_comprehensions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.day15_comprehensions" />
+        <item itemvalue="Python.day14_files" />
+        <item itemvalue="Python.day13_functions_scope" />
+        <item itemvalue="Python.day12_functions" />
+        <item itemvalue="Python.day11_set" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ebfe4b3-62c0-4891-aaf7-fc0fe2545c35" name="Default Changelist" comment="" />
+      <created>1549200417256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549200417256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18638466" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32719547" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.32719547" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32719547" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.44475922" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1870456" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32719547" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.32719547" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.48725212" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/python_core_concepts" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/git-app/todolist/app/api/views.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/git-app/todolist/app/templates/todolist.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-app/todolist/app/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="89" column="11" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+          <folding>
+            <element signature="e#25#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-app/todolist/utils/fake_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#25#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-app/todolist/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="207" column="10" selection-start-line="207" selection-start-column="10" selection-end-line="207" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-app/todolist/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/101/model.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/git-app/todolist/app/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#25#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-app/todolist/todolist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="3" selection-start-line="2" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/101/filelist.yaml" />
+    <entry file="file://$PROJECT_DIR$/core/101/datetimeex.py" />
+    <entry file="file://$PROJECT_DIR$/git-app/todolist/app/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#25#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-app/todolist/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git-app/todolist/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/101/jsonparse.py" />
+    <entry file="file://$PROJECT_DIR$/core/101/listtupledict.py" />
+    <entry file="file://$PROJECT_DIR$/core/101/init_howwork.py" />
+    <entry file="file://$PROJECT_DIR$/core/101/argument.py" />
+    <entry file="file://$PROJECT_DIR$/core/101/splitstring.py" />
+    <entry file="file://$PROJECT_DIR$/core/101/specialoperators.py" />
+    <entry file="file://$PROJECT_DIR$/core/101/small_project.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day1_numbers.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day4_basiccollection.py" />
+    <entry file="file://$PROJECT_DIR$/core/101/operators.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day5_conditionals_n_booleans.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/project_1.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day6_forloops.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day7_split_join_slices.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day9_unpacking.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/339790803/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100422">
+          <caret line="5579" column="8" selection-start-line="5579" selection-start-column="8" selection-end-line="5579" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/30day/day3_stringformat.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/challenge.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day2_string.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day11_set.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day12_functions.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day13_functions_scope.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day8_while.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/iris_new_1.csv" />
+    <entry file="file://$PROJECT_DIR$/core/30day/iris_new_2.csv" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day14_files.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/iris_new.csv" />
+    <entry file="file://$PROJECT_DIR$/core/30day/project_2_v1.0.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/project_2_v1.1.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/hello_world.txt" />
+    <entry file="file://$PROJECT_DIR$/core/30day/iris_new.json" />
+    <entry file="file://$PROJECT_DIR$/core/30day/iris.csv" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day10_dictionary.py" />
+    <entry file="file://$PROJECT_DIR$/core/101/dictionary.py" />
+    <entry file="file://$PROJECT_DIR$/core/101/profileScrap.json" />
+    <entry file="file://$PROJECT_DIR$/core/101/jsonparse_bk.py" />
+    <entry file="file://$PROJECT_DIR$/core/30day/day15_comprehensions.py" />
+  </component>
+</project>

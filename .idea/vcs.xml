@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/core/Python-Microservices-Development" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataanalysis/IPL_data_analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django/DjangoExercise1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django/rest-api/django-rest-framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django/rest-api/restful-apis-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flask/basic/app_ref/crud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pymongo/flask-mongodb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyspark/etl/pyspark-etl-analytics" vcs="Git" />
+  </component>
+</project>

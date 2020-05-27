@@ -1,0 +1,10 @@
+venv
+*.pyc
+node_modules
+.tmp
+.sass-cache
+client/app/bower_components
+client/dist
+server/static
+heroku
+db.sqlite

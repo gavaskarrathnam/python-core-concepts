@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html><head><title>load_without_schema.py – Medium</title><meta name="description" content="You can't perform that action at this time. You signed in with another tab or window. You signed out in another tab or window. Reload to refresh your session. Reload to refresh your session."><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="twitter:widgets:csp" content="on"><meta name="robots" content="noindex"><!-- base href="https://itnext.io/media/84ba489d68a95f930f7fa80ded462a33" --><style>body {text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: "ff-tisa-web-pro", Georgia, Cambria, "Times New Roman", Times, serif; font-weight: 400; color: #333332; font-size: 18px; line-height: 1.4; margin: 0; background-color: white; overflow: hidden;}iframe {max-width: 100%;}</style></head><body><style>.gist .gist-file { margin-bottom: 0 !important; }.gist { text-rendering: auto; }</style><script src="84ba489d68a95f930f7fa80ded462a33_data/f594a53425bf9cf23510439c0a0c59c9.js" charset="utf-8"></script><link rel="stylesheet" href="7b2c4e54e758ce0c125068c61c2728ba_data/gist-embed-3a954d556ba4369aeac571b372bb7d77.css"><div id="gist98017800" class="gist">
+    <div class="gist-file">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-load_without_schema-py" class="file">
+    
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tbody><tr>
+        <td id="file-load_without_schema-py-L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="file-load_without_schema-py-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">def</span> <span class="pl-en">loadDFWithoutSchema</span>(<span class="pl-smi">spark</span>):</td>
+      </tr>
+      <tr>
+        <td id="file-load_without_schema-py-L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="file-load_without_schema-py-LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-load_without_schema-py-L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="file-load_without_schema-py-LC3" class="blob-code blob-code-inner js-file-line">    df <span class="pl-k">=</span> spark.read.format(<span class="pl-s"><span class="pl-pds">"</span>csv<span class="pl-pds">"</span></span>).option(<span class="pl-s"><span class="pl-pds">"</span>header<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span>true<span class="pl-pds">"</span></span>).load(environ[<span class="pl-s"><span class="pl-pds">"</span>HOME<span class="pl-pds">"</span></span>] <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">"</span>/Downloads/autos.csv<span class="pl-pds">"</span></span>)</td>
+      </tr>
+      <tr>
+        <td id="file-load_without_schema-py-L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="file-load_without_schema-py-LC4" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-load_without_schema-py-L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="file-load_without_schema-py-LC5" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">return</span> df</td>
+      </tr>
+</tbody></table>
+
+
+  </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/klimpie94/f594a53425bf9cf23510439c0a0c59c9/raw/4a0463cc446427eeabc27361c0b9945338a4abae/load_without_schema.py" style="float:right">view raw</a>
+        <a href="https://gist.github.com/klimpie94/f594a53425bf9cf23510439c0a0c59c9#file-load_without_schema-py">load_without_schema.py</a>
+        hosted with ❤ by <a href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+<script>var height = -1; var delayMs = 200; if (document) {document.domain = document.domain;}function notifyResize(height) {height = height ? height : document.documentElement.offsetHeight; var resized = false; if (window.donkey && donkey.resize) {donkey.resize(height);var elements = document.getElementsByClassName("gist-data"); for (var i = 0; i < elements.length; i++) {elements[i].style.overflow = "visible"}resized = true;}if (parent && parent._resizeIframe) {var obj = {iframe: window.frameElement, height: height}; parent._resizeIframe(obj); resized = true;}if (window.location && window.location.hash === "#amp=1" && window.parent && window.parent.postMessage) {window.parent.postMessage({sentinel: "amp", type: "embed-size", height: height}, "*");}if (window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.resize) {window.webkit.messageHandlers.resize.postMessage(height); resized = true;}return resized;}function maybeResize() {try {if (document.documentElement.offsetHeight != height && notifyResize()) {height = document.documentElement.offsetHeight;}delayMs = Math.min(delayMs * 2, 1000000); setTimeout(maybeResize, delayMs);} catch(error) {console.log('maybeResize error: ', error)}}maybeResize();</script></body></html>

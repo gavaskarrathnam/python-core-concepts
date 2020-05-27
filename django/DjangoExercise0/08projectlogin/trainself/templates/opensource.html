@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+<html>
+<body>
+
+
+{% block content %}
+{% if user.is_authenticated %}
+<div class="container">
+
+    {% for course in object_list %}
+    <h2><a href="{% url 'coursedetail' course.pk %}">{{ course.title }}</a></h2>
+
+    <ul>
+        <li>{{ course.description }}</li>
+    </ul>
+    {% endfor %}
+</div>
+{% endif %}
+{% endblock content %}
+
+</body>
+</html>

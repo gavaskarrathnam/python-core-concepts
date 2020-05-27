@@ -1,0 +1,631 @@
+[
+  {
+    "general": {
+      "imgUrl": "https://media.licdn.com/dms/image/C5603AQGxdWsEut554w/profile-displayphoto-shrink_800_800/0?e=1560988800&v=beta&t=IaHErQo6wZDDMmSMkGv2AqfubKxFOy4dE0mF-kDTlBc",
+      "fullName": "Yoogle Sharma",
+      "headline": "Senior Full Stack Developer",
+      "company": "Buzzotel",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "500+",
+      "profileUrl": "https://www.linkedin.com/in/yoogle-sharma-8593a1ba/",
+      "connectionDegree": "3rd",
+      "vmid": "ACoAABlUeYUBcQASptOfqDUCTrqzJ0WM9CDE7lQ",
+      "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABlUeYUBcQASptOfqDUCTrqzJ0WM9CDE7lQ,name",
+      "description": "",
+      "linkedinRecruiterUrl": "https://www.linkedin.com/recruiter/profile/424966533,Ov9k,name",
+      "firstName": "Yoogle",
+      "lastName": "Sharma"
+    },
+    "jobs": [
+      {
+        "companyName": "Buzzotel",
+        "companyUrl": "https://www.linkedin.com/company/13418101/",
+        "jobTitle": "Full Stack Developer",
+        "dateRange": "Aug 2017 – Present",
+        "location": "bangalore",
+        "description": null
+      }
+    ],
+    "schools": [
+      {
+        "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Arya%20Institute%20of%20Engg.%20%26%20Technology",
+        "schoolName": "Arya Institute of Engg. & Technology",
+        "degree": "Engineer’s Degree",
+        "degreeSpec": "Computer Science Engineering",
+        "dateRange": "2013 – 2017",
+        "description": "Python"
+      }
+    ],
+    "details": {
+      "linkedinProfile": "https://www.linkedin.com/in/yoogle-sharma-8593a1ba"
+    },
+    "skills": [
+      {
+        "name": "Python",
+        "endorsements": "3"
+      },
+      {
+        "name": "C",
+        "endorsements": "3"
+      },
+      {
+        "name": "Java",
+        "endorsements": "3"
+      }
+    ],
+    "allSkills": "Python, C, Java"
+  },
+  {
+    "general": {
+      "imgUrl": "https://media.licdn.com/dms/image/C5103AQEjDQkxcdFQkg/profile-displayphoto-shrink_800_800/0?e=1560988800&v=beta&t=zairKLdc784JNr-QxlvQL2jJT9bu7i8FNX4lPMwQ0Xc",
+      "fullName": "Vikash Kumar",
+      "headline": "Full-stack Developer at Digital Garrage",
+      "company": "Digital Garrage",
+      "school": "Pondicherry University",
+      "location": "Puducherry, Puducherry, India",
+      "connections": "132",
+      "profileUrl": "https://www.linkedin.com/in/vikash-kumar-4b7607168/",
+      "connectionDegree": "2nd",
+      "vmid": "ACoAACf0-gsBykCnpbd96Lh4Rf3FigtrmCQ__KI",
+      "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAACf0-gsBykCnpbd96Lh4Rf3FigtrmCQ__KI,name",
+      "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAACf0-gsBykCnpbd96Lh4Rf3FigtrmCQ__KI%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+      "description": "",
+      "linkedinRecruiterUrl": "https://www.linkedin.com/recruiter/profile/670366219,BX26,name",
+      "firstName": "Vikash",
+      "lastName": "Kumar"
+    },
+    "jobs": [
+      {
+        "companyName": "Digital Garrage",
+        "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Digital%20Garrage",
+        "jobTitle": "Full-stack Developer",
+        "dateRange": "Feb 2018 – Present",
+        "location": null,
+        "description": null
+      },
+      {
+        "companyName": "Skorydov Systems Private Limited",
+        "companyUrl": "https://www.linkedin.com/company/13636956/",
+        "jobTitle": "Technical Support Specialist",
+        "dateRange": "Aug 2017 – Jan 2018",
+        "location": "Mumbai Area, India",
+        "description": null
+      }
+    ],
+    "schools": [
+      {
+        "schoolUrl": "https://www.linkedin.com/school/13592/?legacySchoolId=13592",
+        "schoolName": "Pondicherry University",
+        "degree": "Master of Computer Applications - MCA",
+        "degreeSpec": "Computer Science",
+        "dateRange": "2014 – 2017"
+      },
+      {
+        "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Mualana%20azad%20mazharul%20haq%20arabic%20and%20Persian%20University",
+        "schoolName": "Mualana azad mazharul haq arabic and Persian University",
+        "degree": "Bachelor in computer application",
+        "degreeSpec": "Computer Science",
+        "dateRange": "2010 – 2014"
+      }
+    ],
+    "details": {
+      "linkedinProfile": "https://www.linkedin.com/in/vikash-kumar-4b7607168"
+    },
+    "skills": [
+      {
+        "name": "Java Database Connectivity (JDBC)",
+        "endorsements": "1"
+      },
+      {
+        "name": "JavaServer Pages (JSP)",
+        "endorsements": "1"
+      },
+      {
+        "name": "JavaScript",
+        "endorsements": "1"
+      },
+      {
+        "name": "Customer Satisfaction",
+        "endorsements": "0"
+      },
+      {
+        "name": "Technical Support",
+        "endorsements": "0"
+      },
+      {
+        "name": "Sales Operations",
+        "endorsements": "0"
+      },
+      {
+        "name": "Search Engine Optimization (SEO)",
+        "endorsements": "0"
+      },
+      {
+        "name": "Core Java",
+        "endorsements": "1"
+      },
+      {
+        "name": "Java",
+        "endorsements": "1"
+      },
+      {
+        "name": "C",
+        "endorsements": "1"
+      },
+      {
+        "name": "C++",
+        "endorsements": "1"
+      },
+      {
+        "name": "Microsoft Office",
+        "endorsements": "1"
+      },
+      {
+        "name": "Office 365",
+        "endorsements": "1"
+      },
+      {
+        "name": "Oracle Database",
+        "endorsements": "1"
+      },
+      {
+        "name": "JavaFX",
+        "endorsements": "0"
+      },
+      {
+        "name": "JavaSE",
+        "endorsements": "0"
+      },
+      {
+        "name": "Customer Service",
+        "endorsements": "0"
+      },
+      {
+        "name": "Communication",
+        "endorsements": "0"
+      },
+      {
+        "name": "Presentation Skills",
+        "endorsements": "0"
+      },
+      {
+        "name": "Java Swing",
+        "endorsements": "0"
+      },
+      {
+        "name": "Technical Product Sales",
+        "endorsements": "0"
+      },
+      {
+        "name": "MS-DOS",
+        "endorsements": "0"
+      },
+      {
+        "name": "Technical Presentations",
+        "endorsements": "0"
+      },
+      {
+        "name": "Group Presentations",
+        "endorsements": "0"
+      },
+      {
+        "name": "Company Presentations",
+        "endorsements": "0"
+      },
+      {
+        "name": "Technical Sales Presentations",
+        "endorsements": "0"
+      },
+      {
+        "name": "Seminar Presentations",
+        "endorsements": "0"
+      },
+      {
+        "name": "Customer Presentations",
+        "endorsements": "0"
+      },
+      {
+        "name": "Behavioral Interviewing",
+        "endorsements": "0"
+      },
+      {
+        "name": "Positive Behavior Support",
+        "endorsements": "0"
+      },
+      {
+        "name": "OKR maintenance",
+        "endorsements": "0"
+      }
+    ],
+    "allSkills": "Java Database Connectivity (JDBC), JavaServer Pages (JSP), JavaScript, Customer Satisfaction, Technical Support, Sales Operations, Search Engine Optimization (SEO), Core Java, Java, C, C++, Microsoft Office, Office 365, Oracle Database, JavaFX, JavaSE, Customer Service, Communication, Presentation Skills, Java Swing, Technical Product Sales, MS-DOS, Technical Presentations, Group Presentations, Company Presentations, Technical Sales Presentations, Seminar Presentations, Customer Presentations, Behavioral Interviewing, Positive Behavior Support, OKR maintenance"
+  },
+  {
+    "general": {
+      "imgUrl": "https://media.licdn.com/dms/image/C5103AQFqq_69dcVXdQ/profile-displayphoto-shrink_800_800/0?e=1560988800&v=beta&t=8k8Oi8REJm4ySd5JYByLHrgivm0pATaRg866LmBDaqQ",
+      "fullName": "THRIMURTHY K S",
+      "headline": "Full stack developer",
+      "company": "software developer",
+      "school": "Ghousia College of Engineering, RAMANAGARAM",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "500+",
+      "profileUrl": "https://www.linkedin.com/in/thrimurthy-k-s-00b97815a/",
+      "connectionDegree": "3rd",
+      "vmid": "ACoAACY6-QsBUUfl9L0p0M1szimotT4xMAAITxM",
+      "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAACY6-QsBUUfl9L0p0M1szimotT4xMAAITxM,name",
+      "description": "Current specialisation : Electronics and Communication Engineering Highest education :\n      Bachelor's degree of silence (Electricnics and Communication) Years of experience : Fresh\n      \n      graduate",
+      "linkedinRecruiterUrl": "https://www.linkedin.com/recruiter/profile/641399051,oV0z,name",
+      "firstName": "THRIMURTHY",
+      "lastName": "K S"
+    },
+    "jobs": [
+      {
+        "companyName": "software developer",
+        "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=software%20developer%20",
+        "jobTitle": "Full-stack Developer",
+        "dateRange": "Jan 2019 – Present",
+        "location": null,
+        "description": null
+      }
+    ],
+    "schools": [
+      {
+        "schoolUrl": "https://www.linkedin.com/school/211263/?legacySchoolId=211263",
+        "schoolName": "Ghousia College of Engineering, RAMANAGARAM",
+        "degree": "Bachelor of Engineering - BE",
+        "degreeSpec": "Electrical, Electronics and Communications Engineering",
+        "dateRange": "2014 – 2018"
+      }
+    ],
+    "details": {
+      "linkedinProfile": "https://www.linkedin.com/in/thrimurthy-k-s-00b97815a",
+      "birthday": "September 1"
+    },
+    "skills": [
+      {
+        "name": "Java",
+        "endorsements": "1"
+      },
+      {
+        "name": "SQL",
+        "endorsements": "1"
+      },
+      {
+        "name": "Web Development",
+        "endorsements": "1"
+      },
+      {
+        "name": "Software Development",
+        "endorsements": "0"
+      },
+      {
+        "name": "Programming",
+        "endorsements": "0"
+      },
+      {
+        "name": "Data Analysis",
+        "endorsements": "0"
+      },
+      {
+        "name": "Strategic Planning",
+        "endorsements": "0"
+      },
+      {
+        "name": "Engineering",
+        "endorsements": "0"
+      },
+      {
+        "name": "Research",
+        "endorsements": "0"
+      },
+      {
+        "name": "Social Media",
+        "endorsements": "0"
+      },
+      {
+        "name": "Core Java",
+        "endorsements": "0"
+      },
+      {
+        "name": "MySQL",
+        "endorsements": "0"
+      },
+      {
+        "name": "HTML",
+        "endorsements": "0"
+      },
+      {
+        "name": "Cascading Style Sheets (CSS)",
+        "endorsements": "0"
+      },
+      {
+        "name": "JavaScript",
+        "endorsements": "0"
+      },
+      {
+        "name": "PHP",
+        "endorsements": "0"
+      },
+      {
+        "name": "C",
+        "endorsements": "0"
+      },
+      {
+        "name": "AngularJS",
+        "endorsements": "0"
+      },
+      {
+        "name": "HTML5",
+        "endorsements": "0"
+      },
+      {
+        "name": "Python (Programming Language)",
+        "endorsements": "0"
+      },
+      {
+        "name": "Linux",
+        "endorsements": "0"
+      },
+      {
+        "name": "Windows",
+        "endorsements": "0"
+      },
+      {
+        "name": "Microsoft Office",
+        "endorsements": "0"
+      },
+      {
+        "name": "Microsoft Word",
+        "endorsements": "0"
+      },
+      {
+        "name": "Microsoft Excel",
+        "endorsements": "0"
+      },
+      {
+        "name": "Microsoft PowerPoint",
+        "endorsements": "0"
+      },
+      {
+        "name": "Management",
+        "endorsements": "0"
+      },
+      {
+        "name": "Leadership",
+        "endorsements": "0"
+      },
+      {
+        "name": "Public Speaking",
+        "endorsements": "0"
+      },
+      {
+        "name": "Team Leadership",
+        "endorsements": "0"
+      },
+      {
+        "name": "Teamwork",
+        "endorsements": "0"
+      },
+      {
+        "name": "Training",
+        "endorsements": "0"
+      },
+      {
+        "name": "English",
+        "endorsements": "0"
+      }
+    ],
+    "allSkills": "Java, SQL, Web Development, Software Development, Programming, Data Analysis, Strategic Planning, Engineering, Research, Social Media, Core Java, MySQL, HTML, Cascading Style Sheets (CSS), JavaScript, PHP, C, AngularJS, HTML5, Python (Programming Language), Linux, Windows, Microsoft Office, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Management, Leadership, Public Speaking, Team Leadership, Teamwork, Training, English"
+  },
+  {
+    "general": {
+      "imgUrl": "https://media.licdn.com/dms/image/C4E03AQGvAWhrXOjQ4Q/profile-displayphoto-shrink_800_800/0?e=1560988800&v=beta&t=rVpI8TCktd1lLdmygPn6ZYkRvEQeTGoCUucHGtKPAgk",
+      "fullName": "Suvojit Mondal",
+      "headline": "Full Stack Developer | Independent Contractor",
+      "company": "Independent Contractor",
+      "school": "RCC Institute Of Information Technology",
+      "location": "Bengaluru, Karnataka, India",
+      "connections": "500+",
+      "profileUrl": "https://www.linkedin.com/in/suvojitmondal/",
+      "connectionDegree": "2nd",
+      "vmid": "ACoAABQONRwBwv1zkf3l6EWijQPtcyjb_zSIq3k",
+      "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABQONRwBwv1zkf3l6EWijQPtcyjb_zSIq3k,name",
+      "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABQONRwBwv1zkf3l6EWijQPtcyjb_zSIq3k%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+      "description": "Hi,\nIt is a pleasure to have you going through my profile.\n\nI am an energetic young fellow interested in software development. I have knowledge about both front-end and backend development. Currently working as a Full Stack Developer in a startup called Marmeto.\n\nPrior to that, I have worked in Infosys for 1 year and 5 months. I have worked on multiple technologies and able to pick new technology fast.\n\nMy skills:\n-Web Development Frameworks:\nRuby on Rails, Magento, Wordpress, Meteor, Express.js, Laravel\n\n-Javascript\nReact.js, React Native, Angular.js, jQuery, Vanilla Javascript, Node.js, Typescript, ECMAScript\n\n-Responsive Web Development\nTwitter Bootstrap, HTML5/CSS3, SASS/SCSS, less, Zurb Foundation\n\n-Mobile App Development\nIonic/Cordova, React Native\n\n-Database\nMySQL, MongoDB, PostgreSQL\n\n-Other Programming languages\nC, Php, Python, Core Java\n\nYou could find some of my work on GitHub: https://github.com/msuvojit\n\nI am an enthusiastic learner and I would be very happy to learn new technology as per requirement. If you think we'd be a great fit, then please drop a line.",
+      "linkedinRecruiterUrl": "https://www.linkedin.com/recruiter/profile/336475420,ylfO,name",
+      "firstName": "Suvojit",
+      "lastName": "Mondal"
+    },
+    "jobs": [
+      {
+        "companyName": "Independent Contractor",
+        "companyUrl": "https://www.linkedin.com/company/14044107/",
+        "jobTitle": "Full Stack Developer",
+        "dateRange": "Feb 2019 – Present",
+        "location": "Bengaluru Area, India",
+        "description": "Currently I am working as a full stack developer on contract basis. These are my skills: \n\n-Web Development Frameworks:\nRuby on Rails, Magento, Wordpress, Meteor, Express.js, Laravel, Shopify\n\n-Javascript\nReact.js, React Native, jQuery, Vanilla Javascript, Node.js, ecmascript\n\n-Responsive Web Development\nTwitter Bootstrap, HTML5/CSS3, SASS/SCSS, less, \n\n-Mobile App Development\nIonic/Cordova, React Native\n\n-Database\nMySQL, MongoDB, PostgreSQL\n-Other Programming languages\nC, C++, Php, Python\n\n-Miscellaneous\nGrunt, Gulp, Webpack, Amazon services, Google API, Heroku\n\nI like to learn new things and I would be very happy to learn new technology as per requirement. If you think we'd be a great fit then please drop a line."
+      },
+      {
+        "companyName": "Marmeto",
+        "companyUrl": "https://www.linkedin.com/company/13407062/",
+        "jobTitle": "Full Stack Developer",
+        "dateRange": "Oct 2017 – Feb 2019",
+        "location": "Bengaluru Area, India",
+        "description": "- Have worked on E-commerce web development project using Magento PHP framework\n- Have worked on Frontend using HTML, CSS, Bootstrap, Javascript, React.js, jquery\n- Have worked on backend using PHP, Node.js, Meteor.js\n- Worked on hybrid mobile app development using Meteor Cordova and React.js\n- Worked on MongoDB, Mysql database"
+      },
+      {
+        "companyName": "Self Employed",
+        "companyUrl": "https://www.linkedin.com/company/1254387/",
+        "jobTitle": "Self Employed",
+        "dateRange": "Nov 2016 – Sep 2017",
+        "location": "West Bengal, India",
+        "description": "- Have worked on small family business handling a different kind of work to run the\n      business.\n      \n\n    \n      - Have worked on web development project as a freelancer."
+      },
+      {
+        "companyName": "Infosys",
+        "companyUrl": "https://www.linkedin.com/company/1283/",
+        "jobTitle": "System Engineer",
+        "dateRange": "Jul 2015 – Nov 2016",
+        "location": "Bengaluru Area, India",
+        "description": "- Generic training on python programming, Oracle database management, Data structures, and algorithms.\n- Implemented Payment software using Python and Oracle database as the generic training project.\n- Stream training on Network and Communication, network fundamentals, VoIP, c++, Python scripting, Unix, Socket programming.\n- Worked as a quality assurance engineer in NBN account. Use Python scripting for day to day task automation.\n- Worked on engineering services communication project for Sonus account."
+      }
+    ],
+    "schools": [
+      {
+        "schoolUrl": "https://www.linkedin.com/school/41187/?legacySchoolId=41187",
+        "schoolName": "RCC Institute Of Information Technology",
+        "degree": "Bachelor’s Degree",
+        "degreeSpec": "Computer Science",
+        "dateRange": "2011 – 2015"
+      }
+    ],
+    "details": {
+      "linkedinProfile": "https://www.linkedin.com/in/suvojitmondal",
+      "websites": "github.com/msuvojit",
+      "twitter": "msuvojit",
+      "birthday": "May 5"
+    },
+    "skills": [
+      {
+        "name": "Node.js",
+        "endorsements": "5"
+      },
+      {
+        "name": "C",
+        "endorsements": "14"
+      },
+      {
+        "name": "Ruby on Rails",
+        "endorsements": "5"
+      },
+      {
+        "name": "Data Structures",
+        "endorsements": "3"
+      },
+      {
+        "name": "Algorithms",
+        "endorsements": "0"
+      },
+      {
+        "name": "Front-end Development",
+        "endorsements": "3"
+      },
+      {
+        "name": "Entrepreneurship",
+        "endorsements": "0"
+      },
+      {
+        "name": "Business Strategy",
+        "endorsements": "0"
+      },
+      {
+        "name": "HTML",
+        "endorsements": "9"
+      },
+      {
+        "name": "C++",
+        "endorsements": "5"
+      },
+      {
+        "name": "SQL",
+        "endorsements": "6"
+      },
+      {
+        "name": "Java",
+        "endorsements": "4"
+      },
+      {
+        "name": "Microsoft Excel",
+        "endorsements": "3"
+      },
+      {
+        "name": "Core Java",
+        "endorsements": "2"
+      },
+      {
+        "name": "Python",
+        "endorsements": "5"
+      },
+      {
+        "name": "Unix",
+        "endorsements": "1"
+      },
+      {
+        "name": "MySQL",
+        "endorsements": "1"
+      },
+      {
+        "name": "PHP",
+        "endorsements": "1"
+      },
+      {
+        "name": "Linux",
+        "endorsements": "2"
+      },
+      {
+        "name": "Content Management Systems (CMS)",
+        "endorsements": "0"
+      },
+      {
+        "name": "WordPress",
+        "endorsements": "2"
+      },
+      {
+        "name": "React.js",
+        "endorsements": "4"
+      },
+      {
+        "name": "JavaScript",
+        "endorsements": "5"
+      },
+      {
+        "name": "Cascading Style Sheets (CSS)",
+        "endorsements": "1"
+      },
+      {
+        "name": "AngularJS",
+        "endorsements": "2"
+      },
+      {
+        "name": "HTML5",
+        "endorsements": "2"
+      },
+      {
+        "name": "jQuery",
+        "endorsements": "2"
+      },
+      {
+        "name": "bootstrap",
+        "endorsements": "2"
+      },
+      {
+        "name": "Spring Framework",
+        "endorsements": "0"
+      },
+      {
+        "name": "C (Programming Language)",
+        "endorsements": "1"
+      },
+      {
+        "name": "Customer Service",
+        "endorsements": "1"
+      },
+      {
+        "name": "Underscore.js",
+        "endorsements": "0"
+      },
+      {
+        "name": "Back-End Web Development",
+        "endorsements": "1"
+      },
+      {
+        "name": "Small Business Management",
+        "endorsements": "0"
+      },
+      {
+        "name": "Application Programming Interfaces",
+        "endorsements": "0"
+      }
+    ],
+    "allSkills": "Node.js, C, Ruby on Rails, Data Structures, Algorithms, Front-end Development, Entrepreneurship, Business Strategy, HTML, C++, SQL, Java, Microsoft Excel, Core Java, Python, Unix, MySQL, PHP, Linux, Content Management Systems (CMS), WordPress, React.js, JavaScript, Cascading Style Sheets (CSS), AngularJS, HTML5, jQuery, bootstrap, Spring Framework, C (Programming Language), Customer Service, Underscore.js, Back-End Web Development, Small Business Management, Application Programming Interfaces"
+  }
+]

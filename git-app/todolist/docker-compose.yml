@@ -1,0 +1,21 @@
+version: '2'
+services:
+  todolist:
+    container_name: gcr.io/gen-cxc-k8-poc-0/todolist
+    image: gcr.io/gen-cxc-k8-poc-0/todolist:v1
+    # restart: always
+    env_file: .env
+    command: gunicorn todolist:app -w 2 -b :8000
+    ports:
+      - "8000:8000"
+    depends_on:
+      - migration
+
+  migration:
+    container_name: migration
+    build: .
+    image: gcr.io/gen-cxc-k8-poc-0/todolist:v1
+    env_file: .env
+    command: flask db upgrade
+    volumes:
+      - .:/code

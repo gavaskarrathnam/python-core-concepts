@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html><head><title>create_table.py – Medium</title><meta name="description" content="You can't perform that action at this time. You signed in with another tab or window. You signed out in another tab or window. Reload to refresh your session. Reload to refresh your session."><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="twitter:widgets:csp" content="on"><meta name="robots" content="noindex"><!-- base href="https://itnext.io/media/603a9ed3cc07b86f9bac52f9a5877bd9" --><style>body {text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: "ff-tisa-web-pro", Georgia, Cambria, "Times New Roman", Times, serif; font-weight: 400; color: #333332; font-size: 18px; line-height: 1.4; margin: 0; background-color: white; overflow: hidden;}iframe {max-width: 100%;}</style></head><body><style>.gist .gist-file { margin-bottom: 0 !important; }.gist { text-rendering: auto; }</style><script src="603a9ed3cc07b86f9bac52f9a5877bd9_data/1a0ee83a13265d1b3042cb5afaceeecc.js" charset="utf-8"></script><link rel="stylesheet" href="7b2c4e54e758ce0c125068c61c2728ba_data/gist-embed-3a954d556ba4369aeac571b372bb7d77.css"><div id="gist98085004" class="gist">
+    <div class="gist-file">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-create_table-py" class="file">
+    
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python ">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tbody><tr>
+        <td id="file-create_table-py-L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="file-create_table-py-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">def</span> <span class="pl-en">create_table</span>(<span class="pl-smi">cursor</span>):</td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="file-create_table-py-LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="file-create_table-py-LC3" class="blob-code blob-code-inner js-file-line">    cursor.execute(<span class="pl-s"><span class="pl-pds">"</span>CREATE TABLE IF NOT EXISTS cars_table <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="file-create_table-py-LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    (   name VARCHAR(255) NOT NULL, <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="file-create_table-py-LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        price integer NOT NULL, <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="file-create_table-py-LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        abtest VARCHAR(255) NOT NULL, <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="file-create_table-py-LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        vehicleType VARCHAR(255), <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="file-create_table-py-LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        yearOfRegistration VARCHAR(4) NOT NULL, <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="file-create_table-py-LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        gearbox VARCHAR(255), <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="file-create_table-py-LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        powerPS integer NOT NULL, <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="file-create_table-py-LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        model VARCHAR(255), <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="file-create_table-py-LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        kilometer integer, <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="file-create_table-py-LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        monthOfRegistration VARCHAR(255) NOT NULL, <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="file-create_table-py-LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        fuelType VARCHAR(255), <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="file-create_table-py-LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        brand VARCHAR(255) NOT NULL, <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="file-create_table-py-LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        notRepairedDamage VARCHAR(255), <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="file-create_table-py-LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        dateCreated DATE NOT NULL, <span class="pl-c1">\</span></span></td>
+      </tr>
+      <tr>
+        <td id="file-create_table-py-L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="file-create_table-py-LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        postalCode VARCHAR(255) NOT NULL);<span class="pl-pds">"</span></span>)</td>
+      </tr>
+</tbody></table>
+
+
+  </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/klimpie94/1a0ee83a13265d1b3042cb5afaceeecc/raw/7df396e81ac05380dc715712d13176c62144b7a4/create_table.py" style="float:right">view raw</a>
+        <a href="https://gist.github.com/klimpie94/1a0ee83a13265d1b3042cb5afaceeecc#file-create_table-py">create_table.py</a>
+        hosted with ❤ by <a href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+<script>var height = -1; var delayMs = 200; if (document) {document.domain = document.domain;}function notifyResize(height) {height = height ? height : document.documentElement.offsetHeight; var resized = false; if (window.donkey && donkey.resize) {donkey.resize(height);var elements = document.getElementsByClassName("gist-data"); for (var i = 0; i < elements.length; i++) {elements[i].style.overflow = "visible"}resized = true;}if (parent && parent._resizeIframe) {var obj = {iframe: window.frameElement, height: height}; parent._resizeIframe(obj); resized = true;}if (window.location && window.location.hash === "#amp=1" && window.parent && window.parent.postMessage) {window.parent.postMessage({sentinel: "amp", type: "embed-size", height: height}, "*");}if (window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.resize) {window.webkit.messageHandlers.resize.postMessage(height); resized = true;}return resized;}function maybeResize() {try {if (document.documentElement.offsetHeight != height && notifyResize()) {height = document.documentElement.offsetHeight;}delayMs = Math.min(delayMs * 2, 1000000); setTimeout(maybeResize, delayMs);} catch(error) {console.log('maybeResize error: ', error)}}maybeResize();</script></body></html>

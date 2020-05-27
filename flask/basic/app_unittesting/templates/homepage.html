@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to Guest Book Page</title>
+</head>
+<body>
+    <h1>Welcome to Guest Book Page</h1>
+    <h2>Links</h2>
+    {% if links != null %}
+        {% for v in links %}
+            <a href="{{ v }}">Click here</a><br>
+        {% endfor %}
+    {% else %}
+        <h3>No more links found!!!</h3>
+    {% endif%}
+</body>
+</html>

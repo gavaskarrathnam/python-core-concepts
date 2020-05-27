@@ -1,0 +1,99 @@
+django - quick reference
+========================
+mkdir djangodevelopment
+cd djangodevelopment
+
+# create project
+> django-admin startproject <<project_name>> ( Ex: helloworld, it will create directory )
+
+> cd helloworld ( under this directory you can see, manage.py )
+
+# start/run web server
+>python manage.py runserver ( It get starts the server and can see console -> http://127.0.0.1:8000/ )
+
+
+# create app. under project ( this case, under helloworld project)
+>python manage.py startapp <<app_name>> ( Ex: ProductService )
+
+
+# create new project with using template
+> django-admin startproject mytemplate ( Note: "mytemplate" is project name )
+
+
+# create app. under "mytemplate" project
+> python manage.py startapp website ( "website" is App. name )
+
+
+# which is apply all migrations: admin, auth, contenttypes, sessions, database
+> python manage.py migrate
+
+# python manage.py makemigrations <<app_name>> { Create the migrations (generate the SQL commands) }.
+> python manage.py makemigrations cmdrmd ( 'cmdrmd' app name )
+Migrations for 'cmdrmd':
+  cmdrmd\migrations\0001_initial.py
+    - Create model CmdRemainder
+
+# python manage.py migrate { Run the migrations (execute the SQL commands) }.
+> python manage.py migrate cmdrmd
+Operations to perform:
+  Apply all migrations: cmdrmd
+Running migrations:
+  Applying cmdrmd.0001_initial... OK
+  
+# create super user to access the admin app.
+> python manage.py createsuperuser
+Username (leave blank to use 'grathnam'): grathnam
+Email address: gavaskarr@gmail.com
+Password: Password@123
+Password (again): Password@123
+Superuser created successfully.
+==============================================================================================
+
+manage.py - actully do a lot
+----------------------------
+For Ex: runserver, migrate, makemigrations, createsuperuser & etc.,
+
+makemigrations : use for make create model under DB (default DB - sqlite3)
+createsuperuser: use for create super user to access 'admin' interface
+
+===============================================================================================
+
+model creation
+--------------
+Step#1: In models.py
+
+from django.db import models
+
+# Create your models here.
+class Todo(models.Model):
+    complete = models.BooleanField(default=False);
+    todotext = models.CharField(max_length=50);
+    
+	def __str__(self):
+        return self.todotext
+
+
+Step#2: In admin.py
+
+# Register your models here.
+from django.contrib import admin
+
+from .models import Todo
+
+admin.site.register(Todo)
+
+Step#3
+After the above steps, do the following steps
+1. >python manage.py makemigrations <<app_name>> {Create the migrations (generate the SQL commands)}.
+2. >python manage.py migrate { Run the migrations (execute the SQL commands) }.
+
+Step#4
+1. Run the server (>python manage.py runserver) and open admin console (using created super user, if not created use (>python manage.py createsuperuser)
+2. 
+
+====================================================================================================
+
+
+
+
+

@@ -1,0 +1,3 @@
+Python + Mysql
+--------------
+pip install mysqlclient //is required to connect
